@@ -1,6 +1,6 @@
 Username: dtradke, AGS
 
-This repository works towards question 25 for Compound bounties on the webpage https://www.notion.so/Analytics-Bounties-for-Alchemix-ffd6c25bdef3486c9b8dfa9476ac6a39. With this question, we are interested in understanding how much value is being taken out of farming pools every day, who the largest withdrawers are, and where they are going. We conduct our study using Flipside Crypto data.
+This repository works towards question 25 for Alchemix bounties on the webpage https://www.notion.so/Analytics-Bounties-for-Alchemix-ffd6c25bdef3486c9b8dfa9476ac6a39. With this question, we are interested in understanding how much value is being taken out of farming pools every day, who the largest withdrawers are, and where they are going. We conduct our study using Flipside Crypto data.
 
 Our solution is located in a jupyter notebook.
 
